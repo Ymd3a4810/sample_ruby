@@ -1,0 +1,4 @@
+{:point=>5, :comment=>"agugato\n"}
+{:point=>1, :comment=>"gomen\n"}
+{:point=>2, :comment=>"yokkoise\n"}
+{:point=>3, :comment=>"sekkati\n"}
