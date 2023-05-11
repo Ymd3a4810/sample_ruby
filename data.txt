@@ -2,3 +2,5 @@
 {:point=>1, :comment=>"gomen\n"}
 {:point=>2, :comment=>"yokkoise\n"}
 {:point=>3, :comment=>"sekkati\n"}
+{:point=>1, :comment=>"1を入力しました\n"}
+ポイント：1　コメント：1を入力しました
